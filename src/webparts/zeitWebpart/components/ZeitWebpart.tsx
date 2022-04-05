@@ -21,21 +21,21 @@ export default class ZeitWebpart extends React.Component<IZeitWebpartProps, {}> 
           </div>
           <div>
           <a className={styles.geschaftsreise} href={this.props.JobsUrl} target="_blank">
-            <img className={styles.image} src="https://cdn-icons.flaticon.com/png/512/896/premium/896883.png?token=exp=1646065992~hmac=06c541399b044166db688dc1d72dc6c0" alt="" />
+            <img className={styles.image} src="https://freeiconshop.com/wp-content/uploads/edd/wrench-outline.png" alt="" />
             <span>Jobs</span>
             </a>
             </div>
 
           <div>
           <a className={styles.geschaftsreise} href={this.props.KolleginnenUrl} target="_blank">
-            <img className={styles.image} src="https://cdn-icons.flaticon.com/png/512/4795/premium/4795008.png?token=exp=1646066323~hmac=75c02f2b0708056f8619d9a6988aac62" alt="" />
+            <img className={styles.image} src="https://freeiconshop.com/wp-content/uploads/edd/people-solid.png" alt="" />
             <span>Kolleginnen</span>
            </a>
           </div>
 
           <div>
           <a className={styles.geschaftsreise} href={this.props.NotfalUrl} target="_blank">
-            <img className={styles.image} src="https://cdn-icons.flaticon.com/png/512/4600/premium/4600712.png?token=exp=1646066411~hmac=80c07f17caa961396439cb83c0f20939" alt="" />
+            <img className={styles.image} src="https://img.icons8.com/external-icongeek26-glyph-icongeek26/344/external-emergency-virus-icongeek26-glyph-icongeek26.png" alt="" />
             <span>Notfall</span>
             </a>
           </div>
@@ -56,7 +56,7 @@ export default class ZeitWebpart extends React.Component<IZeitWebpartProps, {}> 
 
            <div>
            <a className={styles.geschaftsreise} href={this.props.UrlaubUrl} target="_blank">
-            <img className={styles.image} src="https://cdn-icons.flaticon.com/png/512/2664/premium/2664589.png?token=exp=1646066698~hmac=8848a7cd25daf3d94816e626662c80ec" alt="" />
+            <img className={styles.image} src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/344/external-vacation-celebration-holiday-flatart-icons-outline-flatarticons.png" alt="" />
             <span>Urlaub</span>
             </a>
             </div>
